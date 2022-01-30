@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    --primary: rgb(29, 158, 190);
+    font-family: "Lato", sans-serif;
+    background: var(--primary);
+}
